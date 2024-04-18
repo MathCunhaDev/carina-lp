@@ -107,6 +107,11 @@ function App() {
         <S.Container>
           <S.FooterImage src={Logo} alt="Logo" />
           <S.FooterItem>
+            Este site não faz parte do Google nem do Facebook ou do Facebook
+            Inc. Além disso, não oferecemos nenhum tipo de serviço oficial do
+            governo. Trabalhamos exclusivamente com serviços jurídicos.
+          </S.FooterItem>
+          <S.FooterItem>
             Copyright © 2024 Carina Pires - Advocacia. Todos os direitos
             reservados.
           </S.FooterItem>

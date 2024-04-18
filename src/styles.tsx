@@ -8,7 +8,7 @@ export const Body = styled.div`
 export const Header = styled.div`
   width: 100%;
   height: 90vh;
-  background: #393939;
+  background: #001734;
 `;
 
 export const Container = styled.div`
@@ -182,7 +182,7 @@ export const CardsContainer = styled.div`
 
 export const Footer = styled.div`
   width: 100%;
-  height: 150px;
+  height: 180px;
   background: #393939;
   display: flex;
   align-items: center;
